@@ -1,16 +1,28 @@
-### Hi there 👋
+### This is Chris 🤗
 
-<!--
-**stoffy/stoffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-chrismlemke-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrismlemke/)](https://www.linkedin.com/in/chrismlemke)
+[![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@chrislemke)
+<br>
 
-Here are some ideas to get you started:
+<b>Philosophy, coding, machine learning, and trying to understand existence - this is what drives me.</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+
+<a href="https://github.com/stoffy">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoffy&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
+</a> 
+
+<br>
+<br>
+
+<a href="https://github.com/stoffy">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoffy"/>
+</a>
+
+<br>
+<br>
+
+
+
