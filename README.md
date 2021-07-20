@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/-chris.lemke-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chris.lemke)](https://medium.com/@chris.lemke)
 <br>
 
-<b>Philosophy, coding, machine learning, and trying to understand existence - this is what drives me.</b>
+<b>Philosophy, coding, machine learning, and trying to understand existence - that is what drives me.</b>
 
 
 
