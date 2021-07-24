@@ -5,9 +5,7 @@
 [![kaggle](https://img.shields.io/badge/-christopherlemke-white?style=flat&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/christopherlemke)](https://www.kaggle.com/christopherlemke)
 <br>
 
-<b>Philosophy, coding, machine learning, and trying to understand existence - that is what drives me.</b>
-
-
+<b>Machine learning, coding, philosophy, and trying to understand existence - that is what drives me.</b>
 
 <br>
 
