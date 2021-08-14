@@ -5,7 +5,7 @@
 [![kaggle](https://img.shields.io/badge/-christopherlemke-white?style=flat&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/christopherlemke)](https://www.kaggle.com/christopherlemke)
 <br>
 
-<b>Machine learning, coding, philosophy, and trying to understand existence - that's all I need.</b>
+<b>Machine learning, coding, philosophy, and trying to understand existence - is all you need.</b>
 
 <br>
 
