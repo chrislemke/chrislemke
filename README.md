@@ -11,9 +11,4 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislemke&count_private=true&include_all_commits=true&show_icons=true&locale=en" />  
-
-<br>
-<br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislemke"/>
