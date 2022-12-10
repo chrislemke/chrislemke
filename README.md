@@ -9,6 +9,3 @@
 
 <b>Machine learning, coding, philosophy, and trying to understand existence - is all you need.</b>
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislemke"/>
