@@ -7,5 +7,5 @@
 
 <br>
 
-<b>Machine learning, coding, philosophy, and trying to understand existence - is all you need.</b>
+<b>Artificial intelligence, coding, philosophy, and trying to understand existence - is all you need.</b>
 
