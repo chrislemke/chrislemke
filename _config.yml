@@ -53,12 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-pre-commit:
-  - check: FrontMatterVariableExists
-    variables: ['description', 'image']
-  - check: FrontMatterVariableIsNotDuplicate
-    variables: ['description']
-  - check: FrontMatterVariableMeetsLengthRequirements
-    variables: ['description', 'title']
-  - check: NoDuplicateTags
