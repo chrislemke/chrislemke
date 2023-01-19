@@ -6,8 +6,6 @@ date:   2021-07-24 14:17:19 +0100
 categories: nlp
 ---
 
-
-### Introduction
 This is the second article about my project of text simplification using transformers. If you have not read the first one, feel free to do so, but it is not mandatory to understand this article. Feel free to check out the GitHub repo for this project.
 
 Data preprocessing is not only often seen as the more tedious part of developing a deep learning model, but it is also — especially in NLP — underestimated. So now is the time to stand up for it and give data preprocessing the credit and importance it deserves. As in my first article, this one shall be inspired by the experience I had during working on text simplification. It will show some technics — their advantages and disadvantages as well as the idea behind them.
