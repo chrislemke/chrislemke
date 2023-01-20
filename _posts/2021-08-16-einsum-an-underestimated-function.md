@@ -3,7 +3,9 @@ layout: post
 title:  "einsum - an underestimated function"
 description: "One function — many possibilities. How to use linear algebra for deep learning in a clear and simple way"
 date:   2021-08-16 21:32:09 +0100
-categories: "linear algebra"
+categories:
+- mathematics
+- linear algebra
 ---
 
 

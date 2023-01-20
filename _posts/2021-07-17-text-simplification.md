@@ -3,7 +3,9 @@ layout: post
 title:  "Text simplification for the democratization of knowledge"
 description: "Learning deep learning using transformers for text simplification"
 date:   2021-07-17 14:17:19 +0100
-categories: nlp
+categories:
+- artificial intelligence
+- nlp
 ---
 
 

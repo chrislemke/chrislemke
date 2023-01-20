@@ -3,7 +3,9 @@ layout: post
 title:  "Beyond the vanilla transformer"
 description: "A short glance at promising developments of NLPs state-of-the-art architecture"
 date:   2021-08-01 11:32:14 +0100
-categories: transformers
+categories:
+- artificial intelligence
+- models
 ---
 
 

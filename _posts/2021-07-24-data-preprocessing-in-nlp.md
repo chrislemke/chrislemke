@@ -3,7 +3,9 @@ layout: post
 title:  "Data preprocessing in NLP"
 description: "Data cleaning and data augmentation (not only) for text simplification"
 date:   2021-07-24 14:17:19 +0100
-categories: nlp
+categories:
+- artificial intelligence
+- nlp
 ---
 
 This is the second article about my project of text simplification using transformers. If you have not read the first one, feel free to do so, but it is not mandatory to understand this article. Feel free to check out the GitHub repo for this project.
