@@ -4,5 +4,5 @@ title: projects
 permalink: /projects/
 ---
 
-* [sk-transformers](https://sk-transformers.lemke.ai)
-* [autoembedder](https://autoembedder.lemke.ai)
+* [sk-transformers](https://github.com/chrislemke/sk-transformers)
+* [autoembedder](https://github.com/chrislemke/autoembedder)
