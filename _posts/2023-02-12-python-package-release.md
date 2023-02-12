@@ -2,7 +2,7 @@
 layout: post
 title:  "Fully automated release process for Python packages"
 description: "Using GitHub actions to have a fully controlled and automated release process"
-date:   2023-02-12 15:56:19 -01:00
+date:   2023-02-12 15:56:19 -0100
 categories:
 - python
 - ci
