@@ -5,4 +5,4 @@
 [pypi](https://pypi.org/user/chrislemke/)
 
 
-ai, coding, philosophy, and trying to understand existence - is all you need.
+ai, open source, philosophy, and trying to understand existence - is all you need.
